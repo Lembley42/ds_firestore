@@ -1,0 +1,7 @@
+# Google
+google-auth>=2.6.0
+google-cloud-bigquery>=2.34.3
+google-cloud-bigquery-storage>=2.13.0
+# Pandas
+pandas>=1.4.1
+pandas-gbq>=0.17.4

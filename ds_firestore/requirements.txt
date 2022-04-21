@@ -1,0 +1,7 @@
+# Google
+google-auth>=2.6.0
+google-cloud-firestore>=2.3.4
+google-cloud-pubsub>=2.9.0
+firebase-admin>=5.2.0
+# Others
+pandas>=1.4.1
